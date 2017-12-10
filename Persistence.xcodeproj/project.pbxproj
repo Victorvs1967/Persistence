@@ -54,14 +54,22 @@
 		D326992D1FDD48E700165976 /* Persistence */ = {
 			isa = PBXGroup;
 			children = (
-				D326992E1FDD48E800165976 /* AppDelegate.swift */,
 				D32699301FDD48E800165976 /* ViewController.swift */,
 				D32699321FDD48E800165976 /* Main.storyboard */,
-				D32699351FDD48E800165976 /* Assets.xcassets */,
-				D32699371FDD48E800165976 /* LaunchScreen.storyboard */,
 				D326993A1FDD48E800165976 /* Info.plist */,
+				D32699401FDD508400165976 /* Supporting Files */,
 			);
 			path = Persistence;
+			sourceTree = "<group>";
+		};
+		D32699401FDD508400165976 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D326992E1FDD48E800165976 /* AppDelegate.swift */,
+				D32699351FDD48E800165976 /* Assets.xcassets */,
+				D32699371FDD48E800165976 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
